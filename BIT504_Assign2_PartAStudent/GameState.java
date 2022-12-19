@@ -1,4 +1,6 @@
-
+/**
+ * Enumeration for the GameState of game 
+ */
 public enum GameState {
 	Playing,
 	Draw,
